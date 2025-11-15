@@ -9,11 +9,12 @@ This repository implements a complete **End-to-End MLOps workflow**. It includes
 * Flask application for model inference
 * Docker containerization
 * Kubernetes deployment with 3 replicas
-* Git branching strategy with `main`, `dev`, and `docker_cicd`
 
 ---
 
 # Git Branching Strategy
+
+* Git branching strategy with `main`, `dev`, and `docker_cicd`
 
 ### **1️⃣ main (Initial Setup)**
 
